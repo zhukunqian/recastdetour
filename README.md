@@ -1,3 +1,5 @@
+这里放一个备份的原因是这里包含了几个Behaviors的实现。可以供以后参考使用。
+
 *currently [![Build status](https://travis-ci.org/masagroup/recastdetour.png?branch=master)](https://travis-ci.org/masagroup/recastdetour)*
 
 # About #
